@@ -233,7 +233,7 @@ export const projectsData: projectsDT[] = [
     },
     {
         id: 21,
-        number: '02',
+        number: '01',
         title: 'EcoLauncher Tech',
         services: 'Social Media Campaign',
         image: project18,
@@ -241,7 +241,7 @@ export const projectsData: projectsDT[] = [
     },
     {
         id: 22,
-        number: '03',
+        number: '02',
         title: 'PhotoOps 2024',
         services: 'Digital Marketing & SEO',
         image: project19,
@@ -249,7 +249,7 @@ export const projectsData: projectsDT[] = [
     },
     {
         id: 23,
-        number: '04',
+        number: '03',
         title: 'Jack Daniel\'s',
         services: 'Content Strategy & PR',
         image: project20,
